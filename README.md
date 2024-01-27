@@ -4,6 +4,10 @@ CVE-2024-22515 arbitrary file upload and CVE-2024-22514 remote code execution fo
 
 (Older versions likely affected)
 
+[https://github.com/Orange-418/CVE-2024-22514-Remote-Code-Execution](https://github.com/Orange-418/CVE-2024-22514-Remote-Code-Execution)
+
+[https://github.com/Orange-418/CVE-2024-22514-Remote-Code-Execution](https://github.com/Orange-418/CVE-2024-22515-File-Upload-Vulnerability)
+
 https://www.ispyconnect.com/
 
 https://www.ispyconnect.com/docs/agent/about
