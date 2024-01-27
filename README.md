@@ -21,13 +21,13 @@ Due to the nature of the program, which largely uses WebRTC, I did not make a Po
 
 First, after logging into the dashboard, add a new device. Create just a "Dummy" device with default settings.
 
-<img src="pics/create_dummy.png" width="600" height="600">
+![](pics/create_dummy.png)
 
 
 
 On the device, add an action to trigger a task if a photo is taken. Then, add a task, and select to "Execute Command" and select any "File" in the dropdown for what command to trigger.
 
-<img src="pics/add_command.png" width="600" height="600">
+![](pics/add_command.png)
 
 
 
@@ -35,9 +35,9 @@ Now, prepare your payload. You can modify and use the "payload.sh" file in this 
 
 After it is ready, go back to the server menu, and select "File Upload". Select "Audio", and begin browsing for the file, but switch the file selector dropdown from "*.wav" to "All Files".
 
-<img src="pics/upload_payload.png" width="600" height="600">
+![](pics/upload_payload.png)
 
-<img src="pics/upload_audio.png" width="600" height="600">
+![](pics/upload_audio.png)
 
 
 
