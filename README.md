@@ -82,3 +82,8 @@ The dashboard should restart with the changes. Now, in theory, you should have a
 You should now have a root shell.
 
 ![](pics/root.png)
+
+
+
+
+[![Watch the video](http://img.youtube.com/vi/oivzDXdh5us/maxresdefault.jpg)](https://youtu.be/oivzDXdh5us)
