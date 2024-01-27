@@ -21,7 +21,7 @@ Due to the nature of the program, which largely uses WebRTC, I did not make a Po
 
 First, after logging into the dashboard, add a new device. Create just a "Dummy" device with default settings.
 
-<img src="pics/create_dummy.png" width="300" height="200" alt="">
+<img src="pics/create_dummy.png" width="600" height="400">
 ![](pics/create_dummy.png)
 
 
