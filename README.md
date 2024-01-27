@@ -8,6 +8,8 @@ https://www.ispyconnect.com/
 
 https://www.ispyconnect.com/docs/agent/about
 
+https://www.youtube.com/watch?v=oivzDXdh5us
+
 
 Tested on 4.7.3.0 and 5.1.6.0. Versions in between and older are also likely impacted. Tested on installs for Windows x64, Linux x64, and Docker. It is worth noting that the exploitation path for Windows varies slightly. Intead of calling bash, you can just call an exe file directly, such as "/AgentDVR/sounds/payload.exe".
 
@@ -82,8 +84,3 @@ The dashboard should restart with the changes. Now, in theory, you should have a
 You should now have a root shell.
 
 ![](pics/root.png)
-
-
-
-
-[![Watch the video](http://img.youtube.com/vi/oivzDXdh5us/maxresdefault.jpg)](https://youtu.be/oivzDXdh5us)
