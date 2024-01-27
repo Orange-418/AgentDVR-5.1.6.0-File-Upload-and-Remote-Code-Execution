@@ -1,8 +1,8 @@
-# AgentDVR-5.1.6.0-File-Upload-and-Remote-Code-Execution
-CVE-2024-22515 arbitrary file upload and CVE-2024-22514 remote code execution for AgentDVR 5.1.6.0 (Authenticated)
-(Older versions likely affected)
-https://www.ispyconnect.com/
-https://www.ispyconnect.com/docs/agent/about
+# AgentDVR-5.1.6.0-File-Upload-and-Remote-Code-Execution--
+CVE-2024-22515 arbitrary file upload and CVE-2024-22514 remote code execution for AgentDVR 5.1.6.0 (Authenticated)--
+(Older versions likely affected)--
+https://www.ispyconnect.com/--
+https://www.ispyconnect.com/docs/agent/about--
 
 Tested on 4.7.3.0 and 5.1.6.0. Versions in between and older are also likely impacted. Tested on installs for Windows x64, Linux x64, and Docker. It is worth noting that the exploitation path for Windows varies slightly. Intead of calling bash, you can just call an exe file directly, such as "/AgentDVR/sounds/payload.exe".
 
