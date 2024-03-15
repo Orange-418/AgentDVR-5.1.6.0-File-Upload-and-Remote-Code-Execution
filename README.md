@@ -12,7 +12,7 @@ https://www.ispyconnect.com/
 
 https://www.ispyconnect.com/docs/agent/about
 
-https://www.youtube.com/watch?v=oivzDXdh5us
+https://www.youtube.com/watch?v=RXmoXERWVk8
 
 
 Tested on 4.7.3.0 and 5.1.6.0. Versions in between and older are also likely impacted. Tested on installs for Windows x64, Linux x64, and Docker. It is worth noting that the exploitation path for Windows varies slightly. Intead of calling bash, you can just call an exe file directly, such as "/AgentDVR/sounds/payload.exe".
